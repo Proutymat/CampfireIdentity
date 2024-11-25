@@ -12,5 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 167da95b2bbbb8f458e44df2b6ee9040, type: 3}
   m_Name: Introduction
   m_EditorClassIdentifier: 
-  text: s
-  answers: []
+  text: Bonjour !
+  answers:
+  - {fileID: 11400000, guid: 2b4a4465efbdd6e4d8f2dcd3d8251f45, type: 2}
