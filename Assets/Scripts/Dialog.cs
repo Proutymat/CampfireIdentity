@@ -6,4 +6,5 @@ public class Dialog : ScriptableObject
 {
     public string text;
     public List<Answer> answers;
+    
 }
