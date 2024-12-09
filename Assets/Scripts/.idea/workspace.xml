@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c917489-3017-4f66-a969-1dba7cd0035f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Graph/Assets/New Render Texture.renderTexture" beforeDir="false" afterPath="$PROJECT_DIR$/../Graph/Assets/New Render Texture.renderTexture" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scriptables/DialogAnwer1.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Scriptables/DialogAnwer1.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scriptables/Introduction.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Scriptables/Introduction.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Answer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Answer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dialog.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Dialog.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DialogSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DialogSystem.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +35,7 @@
     <setting file="file://$PROJECT_DIR$/Answer.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Dialog.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DialogSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TrackingTargetCamera.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -64,6 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1731952052163</updated>
       <workItem from="1731952053363" duration="1122000" />
+      <workItem from="1733763353518" duration="4205000" />
     </task>
     <servers />
   </component>

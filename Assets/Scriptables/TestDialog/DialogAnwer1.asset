@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37bc5230e6e694547b7a6d8213e0705d, type: 3}
+  m_Name: DialogAnwer1
+  m_EditorClassIdentifier: 
+  text: "\xC7a va tr\xE8s bien et toi ?"
+  dialog: {fileID: 11400000, guid: e023f29012bec7a48a8b3c737013df21, type: 2}
