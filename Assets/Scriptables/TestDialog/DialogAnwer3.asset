@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 37bc5230e6e694547b7a6d8213e0705d, type: 3}
   m_Name: DialogAnwer3
   m_EditorClassIdentifier: 
-  text: T'es pour me parler en fait ?!
+  text: T'es qui pour me parler en fait ?!
   dialog: {fileID: 11400000, guid: d53dfb9955cd9024b84df34f41252d26, type: 2}
